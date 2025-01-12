@@ -17,3 +17,32 @@ Conteúdo
  Exemplos práticos 
  Melhorando prompts 
  Evolução da IA 
+
+				Aula 2
+
+12/01/2025
+
+Por que aprender IA? 
+
+A inteligência artificial tem potencial para transformar a maneira como realizamos uma série de tarefas, economizando inúmeras horas de esforço humano. 
+
+Veremos vários exemplos durante o curso, mas pense em qualquer pequena tarefa repetitiva que você enfrenta regularmente
+
+Isso pode incluir tarefas como redigir e-mails , compilar relatórios ou ate mesmo codificar 
+
+Imagine o seguinte: se vc é capaz de detalhar as etapas de uma tarefa para uma IA de forma clara e lógica, existe uma boa chance de que a IA seja capaz de assumir essa tarefa por vc. 
+
+Em alguns casos, a IA pode até mesmo não apenas realizar a tarefa, mas também fornecer um ponto de partida sólido para tarefas mais complexas 
+
+O uso de chatbots de IA aumentam a produtividade 
+
+Conforme uma pesquisa do MIT, que foi divulgada na conceituada revista Science, inteligências artificiais que geram texto podem ser muito úteis para tarefas simples do dia a dia como reagir e-mails ou criar relatórios breves
+
+Quando se utiliza chatbots de IA para esses fins, a produtividade aumenta em 40%, enquanto a qualidade do trabalho melhora em 18%
+
+Um estudo da IBM de 2022 revela que quase metade das empresas no Brasil, especificamente 41%, fazem uso de IA em suas operações cotidianas 
+
+Os números indicam um aumento significativo na adoção dessa tecnologia, especialmente no contexto após a pandemia de Covid-19 
+
+Além disso, o documento da IBM aponta que dois terços das empresas pesquisadas, ou seja, 66%, estão no processo de implementar IA ou tem intenções de faze-lo em breve 
+
